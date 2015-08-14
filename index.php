@@ -13,7 +13,7 @@
         <h1>LBC Soulwinning Call Generator</h1>
       </div>
       <div class="alert alert-info">
-        <strong>UPDATED: </strong>All the visits will be displayed on the next page when you click "Create Maps." Just print that page and visits will print one per page. Since the maps take a few seconds to generate make sure to scroll all the way to the bottom to ensure all the maps have generated. If you have any issues please contact joe.wheaton@lancasterbaptist.org.
+        <strong>UPDATED: </strong>All the visits will be displayed on the next page when you click "Create Maps." Just print that page and visits will print one per page. Since the maps take a few seconds to generate make sure to scroll all the way to the bottom to ensure all the maps have generated.
       </div>
       <b>Please select a file</b>
       <form name"fileform" method="post" enctype="multipart/form-data" action="maps.php">
